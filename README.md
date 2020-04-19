@@ -2,7 +2,7 @@
 # Serverless Data Engineering Pipeline
 
 Goals
-- Reproduce the architecture of an example serverless data engineering project.
+- Reproduce the architecture of a serverless data engineering project.
 - Enhance the project by extending the functionality of the NLP analysis: adding entity extraction, key phrase extraction, or some other NLP feature.
 
 # 1. Launch AWS Cloud9, create and configure settings for new environment
