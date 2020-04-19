@@ -5,6 +5,9 @@ Goals
 - Reproduce the architecture of a serverless data engineering project.
 - Enhance the project by extending the functionality of the NLP analysis: adding entity extraction, key phrase extraction, or some other NLP feature.
 
+# Workflow
+![Image](../master/images/20.png?raw=true)
+
 # 1. Launch AWS Cloud9, create and configure settings for new environment
 ![Image](../master/images/1.png?raw=true)
 
