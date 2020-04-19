@@ -73,6 +73,14 @@ pip3 install pandas --target ../
 ![Image](../master/images/16.png?raw=true)
 
 
+# 14. Stores results in S3 Bucket
+![Image](../master/images/17.png?raw=true)
+
+
+# 15. Download and review results (name, Wikipedia snippet, sentiment)
+![Image](../master/images/18.png?raw=true)
+![Image](../master/images/19.png?raw=true)
+
 
 
 
